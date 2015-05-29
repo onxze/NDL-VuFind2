@@ -25,6 +25,7 @@ return array(
             'checkboxFacetAvailables' =>
                 'Finna\View\Helper\Root\CheckboxFacetAvailables',
             'userPublicName' => 'Finna\View\Helper\Root\UserPublicName',
+            'newIn' => 'Finna\View\Helper\Root\NewIn',
         )
     ),
     'css' => array(
